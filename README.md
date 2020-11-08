@@ -10,10 +10,6 @@ This was an assignment for UCSD coding bootcamp. This application is a progressi
 
 -[Contributions](#contributions)
 
--[Tests](#tests)
-
--[Questions](#questions)
-
 ## Usage 
 Here is a link to the current deployed application: [Here](https://sleepy-refuge-68012.herokuapp.com/)
 ![frontpage](./assets/mainscreen.png)
