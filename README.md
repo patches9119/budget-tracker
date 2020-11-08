@@ -16,7 +16,7 @@ This was an assignment for UCSD coding bootcamp. This application is a progressi
 
 ## Usage 
 Here is a link to the current deployed application: [Here](https://sleepy-refuge-68012.herokuapp.com/)
-<a href = "./assets/mainscreen.png">
+![frontpage](./assets/mainscreen.png)
 Simply put the name of the transaction and the transaction amount in the corresponding boxes then hit the add or subtract funds button.
 
 ## License 
